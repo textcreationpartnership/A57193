@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick on Her Most Excellent Majestie, Katharine, Queen of England, Scotland, France, and Ireland, or, Her Highness cordiall welcome into England Her Royal Majesty landed at Portsmouth, on Wednesday night, the 14 this instant May, to the great joy of all those that truly fear God, and honour the King / by Lancelot Reynolds, Gent.</title>
+            <author>Reynolds, Lancelot.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57193</idno>
+            <idno type="STC">Wing R1320</idno>
+            <idno type="STC">ESTC R22034</idno>
+            <idno type="EEBO-CITATION">12485985</idno>
+            <idno type="OCLC">ocm 12485985</idno>
+            <idno type="VID">62283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 290:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick on Her Most Excellent Majestie, Katharine, Queen of England, Scotland, France, and Ireland, or, Her Highness cordiall welcome into England Her Royal Majesty landed at Portsmouth, on Wednesday night, the 14 this instant May, to the great joy of all those that truly fear God, and honour the King / by Lancelot Reynolds, Gent.</title>
+                  <author>Reynolds, Lancelot.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Vaughan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62283:1" rendition="simple:additions"/>
+            <pb facs="tcp:62283:1" rendition="simple:additions"/>
+            <p>A PANEGYRICK On her moſt Excellent Majeſtie, <hi>Katharine,</hi> Queen of <hi>England, Scotland, France,</hi> and <hi>Ireland:</hi> OR Her Highneſs <hi>Cordiall</hi> welcome into <hi>England.</hi>
+            </p>
+            <p>Her <hi>Royal Majeſty</hi> landed at <hi>Portſmouth,</hi> on Wedneſday night, the <hi>14.</hi> this inſtant <hi>May;</hi> to the great joy of all thoſe that truly fear <hi>God,</hi> and honour the <hi>KING.</hi>
+            </p>
+            <p>
+               <hi>By LANCELOT REYNOLDS,</hi> Gent.</p>
+            <p>LONDON: Printed by <hi>R. Vaughan, in</hi> Great St. <hi>Martins.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:62283:2"/>
+            <pb n="3" facs="tcp:62283:2"/>
+            <head>On her moſt Excellent Majeſtie, <hi>Katharine,</hi> Queen of <hi>England, Scotland, France,</hi> and <hi>Ireland:</hi> Her Highneſs <hi>Cordiall</hi> welcome into <hi>England.</hi>
+            </head>
+            <lg>
+               <l>VVHen that you ſaw, Brave <hi>Englands Royal Fleece</hi>
+               </l>
+               <l>And many Nobles, of the <hi>Engliſh</hi> greet.</l>
+               <l>Your Royal Brother, did them Entertain:</l>
+               <l>And there Brave Company, and Princely Train;</l>
+               <l>Where nothing was wanting, to ſhew his love:</l>
+               <l>And enterchange of action; to approve.</l>
+               <l>After great Feaſting: they muſt then part thence.</l>
+               <l>Take there great charge, a Royal Recompence.</l>
+               <l>Much land, and watery Ocean, was between:</l>
+               <l>I cannot now relate, what was there ſeen;</l>
+               <l>In the great Court, of King of <hi>Pertugal;</hi>
+               </l>
+               <l>Grand happineſs, I wiſh unto them all.</l>
+               <l>When you did leave, your Brothers Royal Court:</l>
+               <l>Many great Perſons, did to you reſort.</l>
+               <l>At laſt into the Ship, you did enter:</l>
+               <l>Reſolving on a Royal adventure.</l>
+               <l>I wiſh't that the Seas, might be calm, and fair:</l>
+               <l>For to Convay, a Spouſe, that is ſo Ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</l>
+               <l>Endu'd with Eminent quallities of mind:</l>
+               <l>A Jewel ſo Rich, ſo Rare is hard to find.</l>
+               <l>
+                  <hi>Aeolus</hi> breath'd fair, fil'd ſailes to convoy:</l>
+               <l>The choyceſt Jewel, of my Soveraigns joy.</l>
+               <pb n="4" facs="tcp:62283:3"/>
+               <l>
+                  <hi>Neptune</hi> ſtir not up, Thy Tempeſtious waves:</l>
+               <l>Where many are buried, in untimely graves.</l>
+               <l>
+                  <hi>May's</hi> Forehead now be ſmooth, no wrinkled brow:</l>
+               <l>But fair, and calm, great <hi>Caeſar</hi> it allow.</l>
+               <l>
+                  <hi>May</hi> Fiſhes skip, and in the Ocean play:</l>
+               <l>
+                  <hi>England</hi> Rejoyce, at this happy day.</l>
+               <l>God Bleſs the place, where you did ſafely land:</l>
+               <l>And keep your Highneſs, by the Almighties hand.</l>
+               <l>Welcome Rare Princeſs, into great Brittains land:</l>
+               <l>To gracious King <hi>Charls,</hi> that doth it command;</l>
+               <l>And all our noble Nation beſide:</l>
+               <l>To be a Famous Queen, King <hi>Charls</hi> his Bride.</l>
+               <l>Now you are paſt over, the Surging Seas:</l>
+               <l>Down you may ſit, and take your quiet caſe.</l>
+               <l>When you ſhall come, in my dear Soveraigns ſight:</l>
+               <l>Oh how it will his Highneſs heart delight.</l>
+               <l>The Birds will chant, and melodious ſing:</l>
+               <l>To welcome in our Queen, to'r Royal King.</l>
+               <l>All creatures in their kind, may now rejoyce:</l>
+               <l>So let all <hi>Engliſh</hi> men, with heart, and voice.</l>
+               <l>So let <hi>Scotland,</hi> and <hi>Ireland</hi> then, now accord:</l>
+               <l>Truly to love, and honour their dear Lord.</l>
+               <l>Give him all comfor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, of a Nuptial bed:</l>
+               <l>And all things may delight's heart, hand, and head;</l>
+               <l>All thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs that may pleaſe, my Sov'raigns ſences:</l>
+               <l>Friends Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thful, without fained p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tences.</l>
+               <l>Welcome Rare Princeſs, to <hi>Portſmouth's</hi> fair Town,</l>
+               <l>Or every other place, of like Renown.</l>
+               <pb n="5" facs="tcp:62283:3"/>
+               <l>To Famous Cities, of this our Nation:</l>
+               <l>In a Brave Order, and ſtately Faſhion.</l>
+               <l>Let Bonfires blaze, and Bels out loud Ring<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To expreſs love, unto our gracious King.</l>
+               <l>And to the grand <hi>Infanta</hi> Princeſs high:</l>
+               <l>Of hopeful vertues, and bright Majeſty.</l>
+               <l>Who having now put off that youthful Name:</l>
+               <l>And ta'ne the name of Queen, of Royal fame.</l>
+               <l>The Name <hi>Infanta,</hi> you have laid aſide:</l>
+               <l>Taken the Name of Queen: that will abide.</l>
+               <l>As much Happineſs, as a Heart can Deem:</l>
+               <l>I do wiſh, and pray, for G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and King <hi>Charls's</hi> Queen.</l>
+               <l>As much as Tongue can ſpeak, and heart think on:</l>
+               <l>I'le wiſh, and pray, for great King <hi>Charls's</hi> Son.</l>
+               <l>Lord fill my Sov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raigns heart, with choice delight:</l>
+               <l>May you be dear, and precious in his ſight.</l>
+               <l>Inflame his heart, with a holy fire:</l>
+               <l>Grant to his confort Lord, a like deſire.</l>
+               <l>When you come, in brave <hi>London,</hi> to be ſeen:</l>
+               <l>They'l Entertain you, as King <hi>Charls's</hi> Queen.</l>
+               <l>The manner how, I cannot now Relate:</l>
+               <l>Sure it will be according to your State.</l>
+               <l>When that your Grace, ſhall Arrive at White-Hall:</l>
+               <l>You'l find it to Exceed Court <hi>Portugal.</hi>
+               </l>
+               <l>Now you are landed free, from mortal harms:</l>
+               <l>My Gracious King, will cla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou in his arms.</l>
+               <l>You have made a fair Rich Happy, Exchange:</l>
+               <l>Out of one Kingdom, into three to Range.</l>
+               <pb n="6" facs="tcp:62283:4"/>
+               <l>For you, and Royal iſſue, to Diſport:</l>
+               <l>In Each, where many Nobles, will Reſort.</l>
+               <l>God grant that we, in Gods due Time may ſee:</l>
+               <l>A Hopeful, fruitful, Happy Progeny.</l>
+               <l>As much as Tongue, Hand, and Pen, can Expreſs:</l>
+               <l>I wiſh you both, Eternal happineſs.</l>
+               <l>And when your Earthly Crown's, ſhall paſs away:</l>
+               <l>Give you a Kingdom, that ſhall ne're decay.</l>
+            </lg>
+         </div>
+         <div type="accrostics">
+            <head>Accroiſticks, On her moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, Queen <hi>Katharine Stuart.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>K</hi>Atharin pure, chaſte: it doth ſignifie:</l>
+               <l>
+                  <hi>A</hi> good name doth the owner dignifie.</l>
+               <l>T reaſures immortal, may your ſoul enjoy:</l>
+               <l>H appineſs, Tranſcendant, without annoy.</l>
+               <l>A ll heav'nly Bleſſings, on your Head drop down:</l>
+               <l>R iches immortal: after Death a Crown.</l>
+               <l>I n <hi>Jeſus Chriſt,</hi> you do put all your Truſt:</l>
+               <l>N ature being ſpent, aſcendup to the juſt.</l>
+            </lg>
+            <lg>
+               <l>S ing praiſe to God, by his ſacred Spirit:</l>
+               <l>T hat brought you three Kingdoms to inher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</l>
+               <l>U p ready be, t'uphold Gods precious word:</l>
+               <l>
+                  <hi>A</hi> gracious Queen, you'r to our Soveraign Lord.</l>
+               <l>R aſing you up, above your Family;</l>
+               <l>T o do ſervice for your Grand King on high.</l>
+            </lg>
+            <pb n="7" facs="tcp:62283:4"/>
+            <lg>
+               <l>
+                  <hi>K</hi>nowledge, and Rare parts, doth adorn your mind:</l>
+               <l>
+                  <hi>A</hi> Royal Virgen, Queen, Noble, and kind.</l>
+               <l>
+                  <hi>T</hi>he Angel of the Lord direct your wayes;</l>
+               <l>
+                  <hi>H</hi> eavenly minded ſtill, your God to praiſe.</l>
+               <l>
+                  <hi>A</hi> nd may the holy Spirit comfort give:</l>
+               <l>
+                  <hi>R</hi> efreſh your Soul, and grant it e're to live.</l>
+               <l>
+                  <hi>J</hi> udicious in your calling, happy be;</l>
+               <l>
+                  <hi>N</hi> ext to our Soveraign Lord, in Majeſty;</l>
+               <l>
+                  <hi>E</hi> re bleſſed be; to all Eternity.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>S</hi> oare up aloft, by Meditation;</l>
+               <l>
+                  <hi>T</hi> ruth, ſtill maintain, and Reformation.</l>
+               <l>
+                  <hi>V</hi> are the Object, on whom the Kingdoms fixt:</l>
+               <l>
+                  <hi>A</hi> joy unto the Nations; Intermixt.</l>
+               <l>
+                  <hi>R</hi> ejoyce rare Queen, in <hi>Chriſt</hi> your Saviour Dear:</l>
+               <l>
+                  <hi>T</hi> hat will aſſiſt you: and our Sov'raign here.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>K</hi> ings, High, and Mighty: may from you proceed:</l>
+               <l>
+                  <hi>A</hi> Generation, of a Heav'nly Breed.</l>
+               <l>
+                  <hi>T</hi> he King of Heav'n your happy womb ſo Bleſs:</l>
+               <l>
+                  <hi>H</hi> eap on you here, all Earthly happineſs.</l>
+               <l>
+                  <hi>A</hi> nd heav'nly joyes, after this fraile life's paſt:</l>
+               <l>
+                  <hi>R</hi> obes of <hi>Chriſts</hi> Righteouſneſs, to weare at laſt.</l>
+               <l>
+                  <hi>I</hi> n life and Death, moſt happy may you be:</l>
+               <l>
+                  <hi>N</hi> ot for a moment but Eternity.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>S</hi> alvation by <hi>Chriſt</hi> may you Obtain:</l>
+               <l>
+                  <hi>T</hi> hat Bleſſed Guerdon: and Heavenly gain.</l>
+               <l>
+                  <hi>V</hi> ertue doth make the Mind, moſt bright to ſhine:</l>
+               <l>
+                  <hi>A</hi> dvance the Spirit, to a place Sublime.</l>
+               <l>
+                  <hi>R</hi> aig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>royal Queen</hi> of <hi>England,</hi> God you bleſs:</l>
+               <l>
+                  <hi>T</hi> he Father, Son, and God of Righteouſneſs</l>
+            </lg>
+            <pb n="8" facs="tcp:62283:5"/>
+            <lg>
+               <l>
+                  <hi>Q</hi> ueen of <hi>Albions</hi> famous, and learned Iſle:</l>
+               <l>
+                  <hi>U</hi> pon us now, the Heavens begin to ſmile.</l>
+               <l>
+                  <hi>E</hi> ternal <hi>Lord,</hi> our <hi>King,</hi> and <hi>Queen</hi> ſo bleſſe,</l>
+               <l>
+                  <hi>E</hi> ven with <hi>joys</hi> of <hi>endleſſe happineſſe.</hi>
+               </l>
+               <l>
+                  <hi>N</hi> ot <hi>Earth,</hi> but <hi>Heaven</hi> crown your <hi>good ſucceſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>C</hi> hriſt hath advanc'd <hi>you,</hi> bove <hi>your fathers</hi> throne:</l>
+               <l>
+                  <hi>A</hi> bove all <hi>your Anceſtors;</hi> God alone,</l>
+               <l>
+                  <hi>T</hi> hat great <hi>Jehovah,</hi> to him yeild the praiſe:</l>
+               <l>
+                  <hi>H</hi> eaven ſtill protect your Grace, all your Dayes.</l>
+               <l>
+                  <hi>A</hi> nd make you an instruments of his glory</l>
+               <l>
+                  <hi>R</hi> ecord your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, in a famous Storys,</l>
+               <l>
+                  <hi>I</hi> n future <hi>Ages</hi> may learn'd <hi>Authors</hi> write,</l>
+               <l>
+                  <hi>N</hi> ot ordinary, but rare things indite:</l>
+               <l>
+                  <hi>A</hi> dvance, <hi>bleſt Soul</hi> to that <hi>Celeſtial</hi> Light</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62283:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
